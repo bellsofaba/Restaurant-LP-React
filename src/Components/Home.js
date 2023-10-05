@@ -18,7 +18,7 @@ const Home = () => {
           </h1>
           <p className="primary-text">
             All the prep work done on your behalf; peeling, chopping
-            & marinating, so you can put it all together and watch it cook.
+            & marinating, so you can put it all together and get to munching.
           </p>
           <button className="secondary-button">
             Order Now <FiArrowRight />{" "}
