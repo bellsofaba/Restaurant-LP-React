@@ -1,4 +1,4 @@
-//Eslint
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
 import Logo from "../Assets/Assets/Logo.svg";
 import { BsCart2 } from "react-icons/bs";
